@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Выручка",
+    "sum": [
+      {
+        "price": "10",
+        "date": "today"
+      },
+      {
+        "price": "10",
+        "date": "yesterday"
+      }
+    ],
+    "list": [
+      {
+        "name": "Нал1",
+        "list": [
+          {
+            "price": "10",
+            "date": "today"
+          },
+          {
+            "price": "15",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Нал2",
+        "list": [
+          {
+            "price": "12",
+            "date": "today"
+          },
+          {
+            "price": "5",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Нал3",
+        "list": [
+          {
+            "price": "25",
+            "date": "today"
+          },
+          {
+            "price": "15",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Нал4",
+        "list": [
+          {
+            "price": "5",
+            "date": "today"
+          },
+          {
+            "price": "10",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Нал5",
+        "list": [
+          {
+            "price": "30",
+            "date": "today"
+          },
+          {
+            "price": "25",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Нал5",
+        "list": [
+          {
+            "price": "45",
+            "date": "today"
+          },
+          {
+            "price": "10",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Нал6",
+        "list": [
+          {
+            "price": "15",
+            "date": "today"
+          },
+          {
+            "price": "12",
+            "date": "yesterday"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Выручка2",
+    "sum": [
+      {
+        "price": "10",
+        "date": "today"
+      },
+      {
+        "price": "10",
+        "date": "yesterday"
+      }
+    ],
+    "list": [
+      {
+        "name": "Наличные1",
+        "list": [
+          {
+            "price": "1",
+            "date": "today"
+          },
+          {
+            "price": "4",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Наличные2",
+        "list": [
+          {
+            "price": "21",
+            "date": "today"
+          },
+          {
+            "price": "12",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Наличные3",
+        "list": [
+          {
+            "price": "66",
+            "date": "today"
+          },
+          {
+            "price": "2",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Наличные4",
+        "list": [
+          {
+            "price": "12",
+            "date": "today"
+          },
+          {
+            "price": "44",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Наличные5",
+        "list": [
+          {
+            "price": "12",
+            "date": "today"
+          },
+          {
+            "price": "55",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Наличные5",
+        "list": [
+          {
+            "price": "33",
+            "date": "today"
+          },
+          {
+            "price": "12",
+            "date": "yesterday"
+          }
+        ]
+      },
+      {
+        "name": "Наличные6",
+        "list": [
+          {
+            "price": "125",
+            "date": "today"
+          },
+          {
+            "price": "12",
+            "date": "yesterday"
+          }
+        ]
+      }
+    ]
+  }
+]
